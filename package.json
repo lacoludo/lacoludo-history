@@ -1,0 +1,10 @@
+{
+  "name": "lacoludo-history",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": "2.2.4",
+    "materialize-css": "^0.100.2",
+    "reset-css": "^3.0.0"
+  }
+}
